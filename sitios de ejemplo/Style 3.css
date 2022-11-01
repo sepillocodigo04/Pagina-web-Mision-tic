@@ -1,0 +1,181 @@
+
+header{
+    background-color:aqua;
+    height: auto;
+    width: auto;
+    float:right;
+    margin: 20px;
+    padding: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    margin-right: 900px;
+    align-items: center;
+
+}
+
+.tic{
+    text-align: center;
+    float: right;
+    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color:#0a141d;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(213, 213, 226);
+    background-image: url(Banner\ de\ pagina\ 2.png)
+
+}
+.navegacion{
+    background-color:aqua;
+}
+nav{
+    list-style: none;
+    margin: 15px;
+    padding: auto;
+    width: auto;
+    height: auto;
+    width: 300px;
+    margin-top: 150px;
+    margin-left: 20px;
+    text-align:center;
+}
+
+ul{
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+    display: block;
+    font-size: larger;
+    text-decoration: none;
+    
+}
+li{
+    padding: autopx;
+    margin: auto;
+    margin-top: 5px;
+    display: block;
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+section{
+    margin: 30px;
+
+
+
+}
+article{
+    font-size: large;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #efefef;
+
+}
+
+footer{
+    background-color: aqua;
+}
+.pie de pagina{
+    width: 100px;
+    background: #0a141d;
+    
+}
+.grupo-1{
+    width: 100px;
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 50px;
+    padding: 45px 0px;
+}
+.box figure{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.box figure img{
+    width: 250px;
+    text-align: center;
+}
+.box h2
+{
+    color: #ffff;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+.box p{
+    color: #efefef;
+    margin-bottom: 10px;
+}
+.red-social a{
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45;
+    color: #ffff;
+    margin-right: 10px;
+    background-color: #0d2033;
+    text-align: center;
+    transition: all 300ms ease;
+}
+.red-social a:hover{
+    color:aqua
+}
+.grupo-2{
+    background-color: #0a141d;
+    padding: 15px 10px;
+    text-align: center;
+    color: #ffff;
+}
+.grupo-2 small{
+    font-size: 15px;
+}
+
+
+.titulo{
+    color: blue;
+    font-size: 50px;
+    float: right;
+}
+.imagen{
+    float: right;
+    padding: 5px;
+    margin: auto;
+}
+
+#lateral{
+    margin: 50px;
+    padding: 25px;
+    background-color: aqua;
+}
+.formulario{
+    margin: 25px;
+    border: #0a141d;
+    font-family:'Roboto', sans-serif;
+    color: #0d2033;
+    font-size: 20px;
+}
+#footer-form{
+    background-color: #0d2033;
+    color:#efefef;
+    text-align: center;
+    padding: auto;
+    font-family:'Roboto', sans-serif;
+
+}
